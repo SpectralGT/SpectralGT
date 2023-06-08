@@ -1,6 +1,4 @@
-
-![Hero Page](https://github.com/SpectralGT/SpectralGT/assets/78777556/e9c7d448-e7a3-4d36-81ce-74dd217fd97f)
-
+<p align=center><img src="https://github.com/SpectralGT/SpectralGT/assets/78777556/e9c7d448-e7a3-4d36-81ce-74dd217fd97f" width=2000></img></p>
 
 # Technologies I Have Used
 
