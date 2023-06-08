@@ -1,6 +1,6 @@
-<p align=center>
-  <img src="./images/HeroImage.svg"></img>
-</p>
+
+![Hero Page](https://github.com/SpectralGT/SpectralGT/assets/78777556/e9c7d448-e7a3-4d36-81ce-74dd217fd97f)
+
 
 # Technologies I Have Used
 
